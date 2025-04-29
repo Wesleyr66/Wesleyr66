@@ -36,6 +36,7 @@ Ex-Proano <br/><br/>
 
 - Testes automatizados (Jest, React Testing Library, Cypress)
 - CI/CD (Jenkins) e boas práticas de deploy  <br/>
+- AWS / IA
 
 
 ![Wesleyr66's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesleyr66&theme=dracula&hide_border=true)
