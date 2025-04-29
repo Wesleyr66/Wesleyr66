@@ -4,13 +4,12 @@ Desenvolvedor na Numeric brasil
 <br/>
 Estudante de Análise e desenvolvimento de sistemas 
 <br/>
-Ex-Proano
+Ex-Proano <br/><br/>
 
 
----
+## 🚀 Tecnologias que utilizo 
 
-## 🚀 Tecnologias que utilizo
-
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
@@ -31,12 +30,12 @@ Ex-Proano
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="12" />
          
-</div>
+</div> <br/>
 
 ## 🧠 Atualmente aprendendo
 
 - Testes automatizados (Jest, React Testing Library, Cypress)
-- CI/CD (Jenkins) e boas práticas de deploy
+- CI/CD (Jenkins) e boas práticas de deploy  <br/>
 
 
 ![Wesleyr66's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wesleyr66&theme=dracula&hide_border=true)
