@@ -4,7 +4,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia!
 
 ---
 
-## 🚀 Tecnologias que domino
+## 🚀 Tecnologias que utilizo
 
 - **Front-end**: ReactJS, HTML, CSS, JavaScript, TailwindCSS
 - **Back-end**: Java (Spring Boot), Python
